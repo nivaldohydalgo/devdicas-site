@@ -1,0 +1,14 @@
+
+.Footer-container {
+    background-color: #F8F8F8;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 8vh;
+
+}
+
+.Footer-divider {
+    background-color: #BDBDBD;
+    height: 1px;
+}
