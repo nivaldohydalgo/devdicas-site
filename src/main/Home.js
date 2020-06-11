@@ -4,33 +4,8 @@ import './Home.css';
 function Home() {
     return (
         <div className="Home-container">
-                Home<br />
-                Home<br />
-                Home<br />
-                Home<br />
-                Home<br />
-                Home<br />
-                Home<br />
-                Home<br />
-                Home<br />
-                Home<br />
-                Home<br />
-                Home<br />
-                Home<br />
-                Home<br />
-                Home<br />
-                Home<br />
-                Home<br />
-                Home<br />
-                Home<br />
-                Home<br />
-                Home<br />
-                Home<br />
-                Home<br />
-                Home<br />
-                Home<br />
-                Home<br />
-                Home<br />
+            <p>Página inicial do site devDicas</p>
+            <p>Seja benvindo!</p>
         </div>
     );
 }

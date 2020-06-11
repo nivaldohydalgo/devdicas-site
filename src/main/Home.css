@@ -1,5 +1,9 @@
 .Home-container {
     background-color: #FFFFFF;
     width: 100%;
-    
+    /*-- Flex definition --*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
