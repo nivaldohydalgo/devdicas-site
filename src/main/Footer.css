@@ -15,11 +15,28 @@
     height: 1px;
 }
 
-.Footer-content {
-    /*-- Flex definition --*/
-    display: flex;
-    flex: 1;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+.Footer-url-site {
+    padding-top: 8px;
+    font-weight: bold;
+    font-size: 0.8em;
+    color: #B71C1C;
+}
+
+.Footer-copyright {
+    font-style: italic;
+    padding-top: 6px;
+    font-size: 0.7em;
+    color: #E53935;
+}
+
+.Footer-powered {
+    padding-top: 8px;
+    font-weight: bold;
+    font-size: 0.7em;
+    color: #2979FF;
+}
+
+.Footer-logo-react {
+    width: 1em;
+    height: auto
 }
